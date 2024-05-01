@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="logo_view">Logo</string>
+    <string name="loading">Loading</string>
+    <string name="loading_logo">Loading Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
